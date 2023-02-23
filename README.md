@@ -7,16 +7,16 @@ The user has to upload the CSV file with the network traffic information and the
 
 Based on the results highest accuracy is given when the binary class classification is used. The below screenshots will demonstrate the process of model training and the evaluation using these two classification methods.
 
-Training one class classifier with benign_traffic.csv in Danmini_Doorbell dataset (https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell/)
+Training one class classifier with benign_traffic.csv in Danmini_Doorbell dataset (https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell/) and evaluating Danmini_Doorbell mirai_attack ack.csv dataset.
 ![image1](https://user-images.githubusercontent.com/124127000/220923735-65ae1c5b-355d-4618-b25f-cb49ca5621bb.png)
 
-Evaluating one class classifier predictions with -------------
+Evaluating one class classifier predictions with Danmini_Doorbell mirai_attacks udpplain.csv
 ![image2](https://user-images.githubusercontent.com/124127000/220923822-27f9b9dd-1379-4053-a526-8e636a87bba2.png)
 
-Training binary class classifier with ------------
+Training binary class classifier with benign_traffic.csv and mirai_attack ack.csv datasets in https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell)
 ![image3](https://user-images.githubusercontent.com/124127000/220923877-a4755289-5e99-499a-8eec-767d52289d59.png)
 
-Evaluating binary class classifier with -----------
+Evaluating binary class classifier with Ecobee_Thermostat datasets in https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Ecobee_Thermostat/
 ![image4](https://user-images.githubusercontent.com/124127000/220923925-b44c2081-4f01-426c-8790-1de188db5a77.png)
 
 
