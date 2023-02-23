@@ -110,22 +110,5 @@ def main():
             st.success("Number of Attack Traffic Data: "+str(attack_count)+". Number of Benign Traffic Data:"+str(benign_count))
 
 
-
-
-
-            # for index, row in dataframe.iterrows():
-            #
-            #     result = perform_predict(row,classifier)
-            #     if(result[1]==[False]):
-            #         benign_count=benign_count+1
-            #
-            #     elif (result[1]==[True]):
-            #         attack_count= attack_count+1
-            #
-            #     # st.success(result)
-
-            # st.success("attack count: "+str(attack_count)+" \nBenign count: "+str(benign_count))
-
-
 if __name__ == '__main__':
     main()
