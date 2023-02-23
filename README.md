@@ -31,7 +31,13 @@ Screenshots of the dashboard:
 ![image8](https://user-images.githubusercontent.com/124127000/220924286-e4380af4-7252-4941-911c-9876633c32be.png)
 
 
-Installed Libraries: 
-  Streamlit
-  Pandas
-  Plotly
+#### Required Libraries: 
+  streamlit
+  matplotlib
+  scikit-learn
+  
+##### Instructions to run:
+streamlit run main.py
+
+You can visit the URL similar to http://localhost:8501 (Exact url will be displayed in your prompt)
+
