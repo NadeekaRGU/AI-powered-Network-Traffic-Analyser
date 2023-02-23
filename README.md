@@ -30,6 +30,10 @@ Screenshots of the dashboard:
 
 ![image8](https://user-images.githubusercontent.com/124127000/220924286-e4380af4-7252-4941-911c-9876633c32be.png)
 
+![image9](https://user-images.githubusercontent.com/124127000/220929070-940c435e-6cb3-4990-8ad9-20c7fad17f46.png)
+
+![image10](https://user-images.githubusercontent.com/124127000/220929135-d4c901f9-7a68-4d92-9193-c1ccd116e56c.png)
+
 
 #### Required Libraries: 
   streamlit
