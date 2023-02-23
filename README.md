@@ -13,12 +13,13 @@ Based on the results highest accuracy is given when the binary class classificat
 ### Evaluating one class classifier predictions with Danmini_Doorbell mirai_attacks udpplain.csv
 ![image2](https://user-images.githubusercontent.com/124127000/220923822-27f9b9dd-1379-4053-a526-8e636a87bba2.png)
 
+![image4](https://user-images.githubusercontent.com/124127000/220923925-b44c2081-4f01-426c-8790-1de188db5a77.png)
+
 ### Training binary class classifier with benign_traffic.csv and mirai_attack ack.csv datasets in https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell)
 ![image3](https://user-images.githubusercontent.com/124127000/220923877-a4755289-5e99-499a-8eec-767d52289d59.png)
 
 ### Evaluating binary class classifier with Ecobee_Thermostat datasets in https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Ecobee_Thermostat/
-![image4](https://user-images.githubusercontent.com/124127000/220923925-b44c2081-4f01-426c-8790-1de188db5a77.png)
-
+![image11](https://user-images.githubusercontent.com/124127000/220931222-5fb6a276-d2ac-4fcf-b7bb-d34b4ead4aa3.png)
 
 ### Screenshots of the dashboard:
 
