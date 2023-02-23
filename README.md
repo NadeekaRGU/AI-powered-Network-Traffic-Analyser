@@ -7,14 +7,19 @@ The user has to upload the CSV file with the network traffic information and the
 
 Based on the results highest accuracy is given when the binary class classification is used. The below screenshots will demonstrate the process of model training and the evaluation using these two classification methods.
 
-Train one class classification with benign_traffic.csv in Danmini_Doorbell dataset (https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell/)
+Training one class classifier with benign_traffic.csv in Danmini_Doorbell dataset (https://archive.ics.uci.edu/ml/machine-learning-databases/00442/Danmini_Doorbell/)
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/124127000/220912838-f15d768b-9889-4ac8-b6e4-c495fb54a8f6.png)
 
-Test one class classification with -------------
+Evaluating one class classifier predictions with -------------
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/124127000/220916408-9219d18f-907c-4866-bc5b-fce5293bec13.png)
 
-Train binary class classification with ------------
+Training binary class classifier with ------------
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/124127000/220916866-76830e26-7114-4b55-a1c7-e16b7734c630.png)
 
-Test binary class classification with -----------
+Evaluating binary class classifier with -----------
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/124127000/220917076-79a43dec-cfab-4ae3-af38-14ec3c07c322.png)
+
+Installed Libraries: 
+  Streamlit
+  Pandas
+  Plotly
